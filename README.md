@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kesani Srikanth (Sriksgame)
+# 👋 Hi, I'm Kesani Srikanth 
 
 **Aspiring AI & ML Engineer | Tech Lead Intern | Dev Community Enthusiast**
 
@@ -6,7 +6,7 @@
 
 🎓 **Education:**  
 **B.Tech in Artificial Intelligence & Machine Learning**  
-Sreenidhi Institute of Science and Technology (NSIT), Hyderabad  
+Sreenidhi Institute of Science and Technology (SNIST), Hyderabad  
 CGPA: 8.61 (2027 expected)
 
 🔗 [LinkedIn](https://linkedin.com/in/kesani-srikanth-reddy) | [GitHub](https://github.com/Sriksgame) | 📧 kesaniskanthreddy5@gmail.com
