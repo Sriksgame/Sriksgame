@@ -29,15 +29,15 @@ CGPA: 8.61 (2027 expected)
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+ 
   <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
   <br/>
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/NEXT-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/P5.JS-ED225D?style=flat&logo=p5.js&logoColor=white" alt="P5.js"/>
+ 
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress"/>
+
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/POSTGRES-4169E1?style=flat&logo=postgresql&logoColor=white" alt="Postgres"/>
   <br/>
@@ -45,13 +45,11 @@ CGPA: 8.61 (2027 expected)
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/>
   <br/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" alt="Web3.js"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
+
 </p>
 ---
 
